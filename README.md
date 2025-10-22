@@ -25,7 +25,7 @@ A warm, minimal light theme for Visual Studio Code inspired by Anthropic's desig
 
 ### Manual Installation
 
-1. Download the latest release from [GitHub](https://github.com/dhrumil/sand-theme)
+1. Download the latest release from [GitHub](https://github.com/dhrumilcse/sand-theme)
 2. Copy the theme to your VS Code extensions folder
 3. Reload VS Code
 4. Select the theme from Color Theme preferences
