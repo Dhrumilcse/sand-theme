@@ -1,6 +1,6 @@
 # Sand (Light) Theme
 
-A warm, minimal light theme for Visual Studio Code inspired by Anthropic's design palette featuring sand and clay colors.
+A warm, minimal light theme for VS Code inspired by Anthropic's design palette featuring sand and clay colors.
 
 ![Sand (Light) starter screen](images/start.png)
 ![Sand (Light) Code w/ chat window ](images/code.png)
