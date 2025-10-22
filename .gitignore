@@ -4,9 +4,6 @@
 # Node modules (if using vsce locally)
 node_modules/
 
-# Package files
-*.vsix
-
 # Logs
 npm-debug.log*
 yarn-debug.log*
