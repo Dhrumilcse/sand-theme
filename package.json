@@ -1,0 +1,44 @@
+{
+  "name": "sand-theme",
+  "displayName": "Sand (Light)",
+  "description": "A warm, minimal light theme inspired by Anthropic's palette with sand and clay colors",
+  "version": "0.1.0",
+  "publisher": "dhrumil",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "warm",
+    "sand",
+    "minimal",
+    "anthropic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sand (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/sand.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhrumilcse/sand-theme"
+  },
+  "homepage": "https://github.com/dhrumilcse/sand-theme",
+  "bugs": {
+    "url": "https://github.com/dhrumilcse/sand-theme/issues"
+  },
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#F6F4EE",
+    "theme": "light"
+  }
+}
