@@ -45,7 +45,7 @@ The theme features a warm, sand-colored background with carefully selected color
 
 ## Contributing
 
-Issues and pull requests are welcome! Please visit the [GitHub repository](https://github.com/dhrumil/sand-theme).
+Issues and pull requests are welcome! Please visit the [GitHub repository](https://github.com/dhrumilcse/sand-theme).
 
 ## License
 
