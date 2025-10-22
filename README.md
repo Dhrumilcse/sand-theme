@@ -2,13 +2,16 @@
 
 A warm, minimal light theme for Visual Studio Code inspired by Anthropic's design palette featuring sand and clay colors.
 
+![Sand (Light) starter screen](images/start.png)
+![Sand (Light) Code w/ chat window ](images/code.png)
+
 ## Features
 
-- 🏖️ **Warm sand backgrounds** that are easy on the eyes
-- 🎨 **Clay accent colors** for highlights and selections  
-- 📝 **Excellent readability** with carefully chosen contrast ratios
-- 🎯 **Minimal design** that doesn't distract from your code
-- 💡 **Light theme** perfect for daytime coding
+- **Warm sand backgrounds** that are easy on the eyes
+- **Clay accent colors** for highlights and selections  
+- **Excellent readability** with carefully chosen contrast ratios
+- **Minimal design** that doesn't distract from your code
+- **Light theme** perfect for daytime coding
 
 ## Installation
 
@@ -47,7 +50,3 @@ Issues and pull requests are welcome! Please visit the [GitHub repository](https
 ## License
 
 This theme is licensed under the [MIT License](LICENSE).
-
----
-
-**Enjoy coding with Sand (Light)!** 🏖️
