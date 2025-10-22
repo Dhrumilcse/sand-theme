@@ -18,21 +18,18 @@ A warm, minimal light theme for VS Code inspired by Anthropic's design palette f
 ### Via VS Code Marketplace
 
 1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "Sand (Light)"
+2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Search for `Sand (Light)` or `dhrumil.sand-theme`
 4. Click Install
 5. Go to File > Preferences > Color Theme and select "Sand (Light)"
 
 ### Manual Installation
 
 1. Download the latest release from [GitHub](https://github.com/dhrumilcse/sand-theme)
-2. Copy the theme to your VS Code extensions folder
-3. Reload VS Code
+2. Open Command Pallete (`Ctrl+Shift+P` / `Cmd+Shift+P`)
+3. Select `Extensions: Install from VSIX`
+4. Select the `sand-theme-<version>.vsix` package
 4. Select the theme from Color Theme preferences
-
-## Screenshots
-
-The theme features a warm, sand-colored background with carefully selected colors for syntax highlighting that provide excellent readability while maintaining a minimal aesthetic.
 
 ## Color Palette
 
